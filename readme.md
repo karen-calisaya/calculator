@@ -5,3 +5,7 @@
 #### En esta ocasión, creé los archivos para cada operación, junto con su funcionalidad específica y los exporté. En 'calculadora.js' utilicé cada una de esas funcionalidades, importandolas primero, para hacer funcionar la calculadora. El objetivo era familiarizarme con la modularización de código, algo particularmente importante, cuando nuestra aplicación crece.
 
 #### Importante: para probarlo escribe en consola "node calculadora" y verás los resultados en la misma. 😎
+
+
+https://user-images.githubusercontent.com/98064470/184507727-8643f306-c7b1-4c91-b781-1b859b88c972.mp4
+
